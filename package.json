@@ -1,5 +1,5 @@
 {
-  "name": "pokedex-typescript-lite",
+  "name": "pokedex_senai",
   "version": "1.0.0",
   "description": "Aplicacao de terminal que consulta a PokeAPI e organiza Pokemon em um catalogo local",
   "main": "dist/main.js",

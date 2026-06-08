@@ -16,7 +16,7 @@ async function main(): Promise<void> {
   // 2. injeta os services no controller
   const app = new TerminalController(api, box);
 
-  console.log("==== Pokedex TypeScript Lite ====\n");
+  console.log("==== pokedex_senai ====\n");
 
   // 3. fluxo de demonstracao
   await app.buscarEAdicionar("pikachu");
